@@ -167,7 +167,6 @@ h1, h2, p {
   height: 60px;
   background-color: #ffffff;
   display: flex;
-  visibility: visible !important;
   justify-content: space-around;
   align-items: center;
   box-shadow: 0 -1px 5px rgba(0,0,0,0.1);
